@@ -17,6 +17,10 @@ This **n8n workflow**, `WF-1: Calculator`, is designed to process chat messages 
 3. ➗ If a calculation is needed, the **Calculator Tool** executes it.
 4. 📤 The response is sent back to the user.
 
+## 📷 Workflow Screenshots
+### WF-1: Calculator
+![WF-1 Screenshot](WF1.png)
+
 ## 🚀 Setup Instructions
 - 📥 **Import the workflow** into `n8n`.
 - 🔑 **Ensure your OpenAI API credentials** are configured.
