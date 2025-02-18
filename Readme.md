@@ -25,6 +25,3 @@ This **n8n workflow**, `WF-1: Calculator`, is designed to process chat messages 
 ## 📝 Notes
 - ⚠️ The workflow is **inactive by default**.
 - 🛠️ Modify as needed to fit specific requirements.
-
----
-✨ **Happy Automating with n8n!** ✨
